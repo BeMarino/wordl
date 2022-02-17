@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/ic_baseline_keyboard_24.xml" value="0.246875" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/ic_delete_left_solid.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/ic_launcher_background.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/round.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/separator.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/switch_user.xml" value="0.41435897435897434" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/textview_almost.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/textview_border.xml" value="0.23958333333333334" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/drawable/textview_right.xml" value="0.24739583333333334" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/layout/activity_game.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/benny/Desktop/wordwar/app/src/main/res/layout/result_dialog.xml" value="0.2740036231884058" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
